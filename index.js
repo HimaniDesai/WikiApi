@@ -30,7 +30,7 @@ const path=require("path");
         return res.json({
           speech: w,
           displayText: w,
-          source: "quotee"
+          source: "wikisearch"
         }); 
   });
 
